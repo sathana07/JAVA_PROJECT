@@ -16,8 +16,10 @@ public class StringConceptsApplication {
 		// objRemoveLeadingZeros.methodRemoveLeadingZeros();	
 		 //InsertString objInsertString = new  InsertString();
 		 //objInsertString.methodInsertString();		 
-		 CompareString  objCompareString =new  CompareString();
-		 objCompareString.methodCompareString();
+		// CompareString  objCompareString =new  CompareString();
+		// objCompareString.methodCompareString();
+		CalculateArea objCalculateArea = new CalculateArea();
+		objCalculateArea.CalculateArea();
 	}
 
 }

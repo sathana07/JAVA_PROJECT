@@ -12,7 +12,7 @@ public class CompareString {
 			System.out.println("Enter second string: ");
 			String var2 = Scanner.nextLine();
 
-			if (var1.equalsIgnoreCase(var2)) {
+			if (var1.equals(var2)) {
 				System.out.println("Equal");
 			} else {
 				System.out.println("Not Equal");
